@@ -27,9 +27,9 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 ## Step 5: Results
 
 
-###Contributors
+### Contributors
 
-###Avinabo Saha
-###Mohammad Arif
+### Avinabo Saha
+### Mohammad Arif
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore
