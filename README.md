@@ -1,5 +1,16 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+
+Lending loans to ‘risky’ applicants is the largest source of financial loss
+(called credit loss). The credit loss is the amount of money lost by the lender 
+when the borrower refusesto pay or runs away with the money owed.  
+
+The main objective is to be able to identify these risky loan applicants, 
+then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study.   
+
+Perform an analysis to understand the driving factors (or driver variables)
+behind loan default, i.e.the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment. 
 
 
 ## Table of Contents
@@ -11,39 +22,38 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The objective of the analysis is to identify risky loan applicants who can default in future,
+  then such loans can be reduced thereby cutting down the amount of credit loss.
+- Lending club is the largest online marketplace ,facilitating personals loans,business loans
+  etc. Borrowers can easily access lower interest rate loans
+- Assesing whether an applicant will default the loan or not so that such loans can be reduced thereby cutting down the amount of credit loss.
+- Dataset was from banking domain that contains the customers demographic and banking related informations. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- We have noticed high income makes the DTI low so , focusing on good monthly income is always a good idea.
+- For less employment duration, lesser monthly income and low grades applicants it’s a good idea to get the principal
+  amount in the initial instalments first so we can have less chances of loss.
+- Customers who requires loan for debt consolidation purpose should be ignored.
+- Funding huge amount with high interest to applicants with low income (less than 10000) will not be a good idea.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - 1.4.2
+- matplotlib - 3.1
+- seaborn - 0.11.20
+- python - 3.8
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- This project is inspired by the assistance of S.Anand and Siddhesh Gunjal
+- https://pandas.pydata.org, https://matplotlib.org, https://www.python.org 
+- This project was based on [this tutorial](https://learn.upgrad.com)
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Created by [https://github.com/mohd886] and [https://github.com/AbhinabaSaha-git]
 
 <!-- Optional -->
 <!-- ## License -->
