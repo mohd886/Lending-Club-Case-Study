@@ -1,7 +1,7 @@
 # Lending-Club-Case-Study
 
 
-###Goal of data analysis
+### Goal of data analysis
 
 Lending loans to ‘risky’ applicants is the largest source of financial loss
 (called credit loss). The credit loss is the amount of money lost by the lender 
@@ -16,18 +16,18 @@ behind loan default, i.e.the variables which are strong indicators of default.
 The company can utilise this knowledge for its portfolio and risk assessment. 
 
 
-##Step 1: Data Cleaning 1
+## Step 1: Data Cleaning 1
 
-##Step 2: Univariate Analysis
+## Step 2: Univariate Analysis
 
-##Step 3: Segemented Univariate Analysis
+## Step 3: Segemented Univariate Analysis
 
-##Step 4: Bivaraiate/Multivariate Analysis
+## Step 4: Bivaraiate/Multivariate Analysis
 
-##Step 5: Results
+## Step 5: Results
 
 
-###Contributors
+Contributors
 
 Avinabo Saha
 Mohammad Arif
